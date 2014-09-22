@@ -1,0 +1,11 @@
+/bootstrap/compiled.php
+/vendor
+/node_modules
+composer.phar
+composer.lock
+.env.*.php
+.env.php
+.DS_Store
+Thumbs.db
+
+tests/_output/*
