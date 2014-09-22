@@ -73,3 +73,8 @@ execute: **grunt**
 
 * Repo owner or admin
 * Other community or team contact
+* 
+### TO DO ###
+
+* Add an e2e example
+* Create Grunt task to Re-create development database or create an sh to start de app
