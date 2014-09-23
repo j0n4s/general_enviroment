@@ -76,5 +76,6 @@ execute: **grunt**
 * 
 ### TO DO ###
 
-* Add an e2e example
-* Create Grunt task to Re-create development database or create an sh to start de app
+* Add an e2e example.
+* Create Grunt task to Re-create development database or create an sh to start de app.
+* Config htaccess to input the application.
