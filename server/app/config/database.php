@@ -26,7 +26,7 @@ return array(
 	|
 	*/
 
-	'default' => 'mysql',
+	'default' => 'mongodb',
 
 	/*
 	|--------------------------------------------------------------------------
@@ -50,6 +50,15 @@ return array(
 			'driver'   => 'sqlite',
 			'database' => __DIR__.'/../database/production.sqlite',
 			'prefix'   => '',
+		),
+
+		'mongodb' => array(
+    	'driver'   => 'mongodb',
+    	'host'     => 'localhost',
+    	'port'     => 27017,
+    	'username' => '',
+    	'password' => '',
+    	'database' => 'database'
 		),
 
 		'mysql' => array(

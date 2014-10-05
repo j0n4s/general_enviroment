@@ -1,7 +1,8 @@
 {
   "name": "jonathan/server",
   "require": {
-    "laravel/framework": "4.2.*"
+    "laravel/framework": "4.2.*",
+    "jenssegers/mongodb": "*"
   },
   "autoload": {
     "classmap": [
